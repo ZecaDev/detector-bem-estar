@@ -33,8 +33,8 @@ Oferecer um canal rápido para os estudantes registrarem como estão se sentindo
 ## 💻 Como Rodar o Projeto Localmente
 
 1. **Clone o repositório:**
+ git clone [https://github.com/seu-usuario/sentirbem-escolar.git](https://github.com/seu-usuario/sentirbem-escolar.git)
    ```bash
-  git clone [https://github.com/seu-usuario/sentirbem-escolar.git](https://github.com/seu-usuario/sentirbem-escolar.git)
   cd sentirbem-escolar
   npm install
   npm start
